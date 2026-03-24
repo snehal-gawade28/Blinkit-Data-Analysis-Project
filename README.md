@@ -50,6 +50,7 @@ This project focuses on:
 ├── python/ # Jupyter Notebook (EDA)
 ├── sql/ # SQL queries
 └── README.md
+
 ---
 
 ## ⚙️ Project Workflow
