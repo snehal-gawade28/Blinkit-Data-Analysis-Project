@@ -29,12 +29,10 @@ This project focuses on:
 
 ## 🛠️ Tools & Technologies
 
-<p>
-  <img src="https://img.icons8.com/color/48/sql.png" width="40"/>
-  <img src="https://img.icons8.com/color/48/python.png" width="40"/>
-  <img src="https://img.icons8.com/color/48/power-bi.png" width="40"/>
-  <img src="https://img.icons8.com/color/48/ms-excel.png" width="40"/>
-</p>
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 - **SQL (MSSQL Server)** → Data extraction, transformation, KPI calculation  
 - **Python (Pandas, Matplotlib)** → Data cleaning & exploratory analysis  
