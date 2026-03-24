@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/dashboard.png" width="750"/>
+  <img src="images/dashboard screenshot.png" width="750"/>
 </p>
 
 <h1 align="center">🛒 Blinkit Sales Data Analysis Project</h1>
