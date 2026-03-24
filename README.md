@@ -42,7 +42,6 @@ This project focuses on:
 ---
 
 ## 📂 Project Structure
-blinkit-data-analysis-project/
 │
 ├── data/ # Raw dataset
 ├── excel/ # Excel analysis
@@ -51,8 +50,6 @@ blinkit-data-analysis-project/
 ├── python/ # Jupyter Notebook (EDA)
 ├── sql/ # SQL queries
 └── README.md
-
-
 ---
 
 ## ⚙️ Project Workflow
