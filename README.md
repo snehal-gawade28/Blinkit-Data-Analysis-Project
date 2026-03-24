@@ -91,7 +91,7 @@ blinkit-data-analysis-project/
 
 ## 📊 Dashboard Preview
 <p align="center">
-  <img src="images/dashboard.png" width="750"/>
+  <img src="images/dashboard screenshot.png" width="750"/>
 </p>
 
 ---
