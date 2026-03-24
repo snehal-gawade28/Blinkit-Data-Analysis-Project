@@ -42,14 +42,18 @@ This project focuses on:
 ---
 
 ## 📂 Project Structure
+
+```
+blinkit-data-analysis-project/
 │
-├── data/ # Raw dataset
-├── excel/ # Excel analysis
-├── images/ # Dashboard screenshots
-├── powerbi/ # Power BI dashboard (.pbix)
-├── python/ # Jupyter Notebook (EDA)
-├── sql/ # SQL queries
+├── data/        # Raw dataset
+├── excel/       # Excel analysis
+├── images/      # Dashboard screenshots
+├── powerbi/     # Power BI dashboard (.pbix)
+├── python/      # Jupyter Notebook (EDA)
+├── sql/         # SQL queries
 └── README.md
+```
 
 ---
 
