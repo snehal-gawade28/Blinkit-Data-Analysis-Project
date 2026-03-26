@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/dashboard screenshot.png" width="750"/>
+  <img src="images/Power BI Dashboard.png" width="750"/>
 </p>
 
 <h1 align="center">🛒 Blinkit Sales Data Analysis Project</h1>
@@ -93,7 +93,7 @@ blinkit-data-analysis-project/
 
 ## 📊 Dashboard Preview
 <p align="center">
-  <img src="images/dashboard screenshot.png" width="750"/>
+  <img src="images/Excel Dashboard.png" width="750"/>
 </p>
 
 ---
